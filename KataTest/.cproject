@@ -28,7 +28,7 @@
 								<option id="gnu.cpp.compiler.cygwin.exe.debug.option.debugging.level.1968192480" name="Debug Level" superClass="gnu.cpp.compiler.cygwin.exe.debug.option.debugging.level" useByScannerDiscovery="false" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
 								<option id="gnu.cpp.compiler.option.include.paths.1550136735" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${GTEST}/include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${WorkspaceDirPath}/Kata&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${WorkspaceDirPath}/Kata/Kata&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.cygwin.846868283" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input.cygwin"/>
 							</tool>
@@ -41,7 +41,7 @@
 							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.cygwin.exe.debug.1295062947" name="Cygwin C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.cygwin.exe.debug">
 								<option id="gnu.cpp.link.option.userobjs.820551737" name="Other objects" superClass="gnu.cpp.link.option.userobjs" useByScannerDiscovery="false" valueType="userObjs">
 									<listOptionValue builtIn="false" value="&quot;${GTEST}/make/gtest.a&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${WorkspaceDirPath}/Kata/Debug/Kata.a&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${WorkspaceDirPath}/Kata/Kata/Debug/Kata.a&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1026493093" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
